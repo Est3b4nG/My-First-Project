@@ -1,8 +1,4 @@
 # My-First-Project
-## subtitle
-### seccion
-hbhbj `code` hjnhnjh
-```shell
-ojojoj
-jininjk
-```
+## This code allows to find for which amino-acid each codon codifies for.
+### Biology
+
